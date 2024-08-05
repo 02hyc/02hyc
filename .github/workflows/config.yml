@@ -20,6 +20,6 @@ jobs:
           filename: metrics.base.svg
           token: ${{ secrets.TOKEN }}
           base: header
-          config_order: base.header, isocalendar, notable
+          config_order: base.header, isocalendar
           plugin_isocalendar: yes
-          plugin_notable: yes
+          plugin_isocalendar_duration: half-year
