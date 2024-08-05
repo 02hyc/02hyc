@@ -9,6 +9,8 @@
 - Large Language Models
 - Evolutionary Computing
 
+![Metrics](/metrics.base.svg)
+
 <!--
 **02hyc/02hyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
