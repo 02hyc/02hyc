@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: base metrics
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
           token: ${{ secrets.TOKEN }}
