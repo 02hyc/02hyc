@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=02hyc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="/metrics.base.svg" />
 
 - A junior at Nanjing University Software Institute
 - Expect to pursue a doctoral degree at Westlake University
@@ -8,8 +8,6 @@
 - Natural Language Processing
 - Large Language Models
 - Evolutionary Computing
-
-![Metrics](/metrics.base.svg)
 
 <!--
 **02hyc/02hyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
