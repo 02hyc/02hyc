@@ -20,24 +20,27 @@ jobs:
           filename: metrics.base.svg
           token: ${{ secrets.TOKEN }}
           base: header
-          config_order: base.header
-      - name: apple music
-        uses: lowlighter/metrics@latest
-        with:
-          filename: apple.music.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
+          config_order: base.header, music
           plugin_music: yes
           plugin_music_provider: apple
           plugin_music_playlist: https://embed.music.apple.com/cn/playlist/github-suggest/pl.u-Ymb0962fP0baNAN
-      - name: last_fm
-        uses: lowlighter/metrics@latest
-        with:
-          filename: last.fm.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          plugin_music_token: ${{ secrets.LASTFM }}
-          plugin_music: yes
-          plugin_music_provider: lastfm
-          plugin_music_user: hycFrom02
+      # - name: apple music
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: apple.music.svg
+      #     token: ${{ secrets.TOKEN }}
+      #     base: ""
+      #     plugin_music: yes
+      #     plugin_music_provider: apple
+      #     plugin_music_playlist: https://embed.music.apple.com/cn/playlist/github-suggest/pl.u-Ymb0962fP0baNAN
+      # - name: last_fm
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: last.fm.svg
+      #     token: ${{ secrets.TOKEN }}
+      #     base: ""
+      #     plugin_music_token: ${{ secrets.LASTFM }}
+      #     plugin_music: yes
+      #     plugin_music_provider: lastfm
+      #     plugin_music_user: hycFrom02
           
