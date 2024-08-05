@@ -19,4 +19,7 @@ jobs:
         with:
           filename: metrics.base.svg
           token: ${{ secrets.TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header
+          config_order: base.header, isocalendar, notable
+          plugin_isocalendar: yes
+          plugin_notable: yes
