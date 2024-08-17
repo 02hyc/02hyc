@@ -8,7 +8,7 @@
 ### Now I'm working on
 - Natural Language Processing
 - Large Language Models
-- Evolutionary Computing
+- Evolutionary Computation
 
 <!--
 **02hyc/02hyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
