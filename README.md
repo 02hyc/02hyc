@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - A junior at Nanjing University Software Institute
-- Expect to pursue a doctoral degree at Westlake University
+- Expect to pursue a doctoral degree at Zhejiang University & Westlake University
   
 ### Now I'm working on
 - Natural Language Processing
