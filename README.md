@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- A junior at Nanjing University Software Institute
-- Expect to pursue a doctoral degree at Zhejiang University & Westlake University
+- Now at Nanjing University Software Institute (2021 ~ 2025)
+- Expect to pursue a doctoral degree at Zhejiang University & Westlake University (2025 ~ )
   
 ### Now I'm working on
 - Natural Language Processing
