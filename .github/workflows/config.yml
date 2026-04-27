@@ -25,7 +25,7 @@ jobs:
           plugin_music_provider: lastfm
           plugin_music_token: ${{ secrets.LASTFM }}
           plugin_music_user: hycFrom02
-          plugin_music_mode: recent
+          plugin_music_mode: top
           plugin_music_limit: 4
       # - name: apple music
       #   uses: lowlighter/metrics@latest
