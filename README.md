@@ -9,6 +9,12 @@
 - Natural Language Processing
 - Large Language Models
 
+### Writing
+
+[**IdeaEval: Impact-Oriented Evaluation of Scientific Hypothesis Generation**](https://02hyc.github.io/Blog/posts/ideaeval/)
+
+Lessons from evaluating AI-generated research ideas: scientific impact, citation-based calibration, and the limits of LLM judges.
+
 <!--
 **02hyc/02hyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
